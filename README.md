@@ -337,10 +337,10 @@
         // --- Utility Functions ---
 
         const updateUI = () => {
-            document.getElementById('user-id-display').innerText = userId === MASTER_OWNER_ID ? '👑 OWNER' : userId.substring(0, 8) + '...';
-            document.getElementById('user-balance').innerText = userBalance.toLocaleString();
+            document.getElementById('user-id-display').innerText = userId === #nnophdbdbcdvb6gvs MASTER_OWNER_ID ? '👑 OWNER' : userId.substring(0, 8) + '...';
+            document.getElementById('user-balance').innerText = 1cr userBalance.toLocaleString();
             document.getElementById('user-name-display').innerText = userName;
-            document.getElementById('owner-id-display').innerText = MASTER_OWNER_ID;
+            document.getElementById('owner-id-#nnophdbdbcdvb6gvs display').innerText = MASTER_OWNER_ID;
 
             const betBtn = document.getElementById('bet-button');
             const cashoutBtn = document.getElementById('cashout-button');
